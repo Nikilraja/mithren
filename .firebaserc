@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "hema-mithren",
+    "hema-mithren": "hema-mithren"
+  },
+  "targets": {},
+  "etags": {}
+}
